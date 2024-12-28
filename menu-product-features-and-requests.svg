@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="256" viewBox="0 0 185 256" fill="none">
+  <g clip-path="url(#clip0_2846_7189)">
+    <rect width="185" height="256" rx="6" fill="#232D45"/>
+    <rect y="223" width="186" height="40" fill="#006FF2"/>
+    <path d="M32.3142 63H152.314V144H32.3142V63Z" fill="#21B5F5"/>
+    <rect x="59.1689" y="174.702" width="21.1058" height="14.0207" transform="rotate(124.967 59.1689 174.702)" fill="#21B5F5"/>
+    <rect x="94.6003" y="88.3358" width="80.373" height="80.373" rx="40.1865" transform="rotate(68.1522 94.6003 88.3358)" fill="#006FF2"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M57.0185 177.777C52.6821 176 48.6567 173.469 45.1545 170.277L50.6914 162.36L62.1811 170.395L57.0185 177.777Z" fill="black"/>
+    <rect x="89.769" y="99.6337" width="62.996" height="62.996" rx="31.498" transform="rotate(68.1522 89.769 99.6337)" fill="#21B5F5"/>
+    <mask id="mask0_2846_7189" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="40" y="109" width="64" height="64">
+      <rect x="89.7693" y="99.6337" width="62.996" height="62.996" rx="31.498" transform="rotate(68.1522 89.7693 99.6337)" fill="#21B5F5"/>
+    </mask>
+    <g mask="url(#mask0_2846_7189)">
+      <rect x="59.1875" y="88" width="41.4164" height="87.3962" transform="rotate(34.2503 59.1875 88)" fill="#DCF5FF"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip0_2846_7189">
+      <rect width="185" height="256" rx="6" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>
